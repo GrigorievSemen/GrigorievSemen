@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Semen 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="40"/></h1>
+<h3 align="center">Doing what I love - learning Java <img src="https://media0.giphy.com/media/SXxI9NlwvYiY3bRsck/200w.webp?cid=ecf05e47jggcvwu8frv5ettow8h3tya3vjeoe53hzzelya6m&rid=200w.webp&ct=gif" height="50"/></h3>
 
 <!--
 **GrigorievSemen/GrigorievSemen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
